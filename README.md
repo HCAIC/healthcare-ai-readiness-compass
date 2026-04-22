@@ -37,14 +37,16 @@ Created by **Leigh** — systems architect and former WHO, NHS, and NSW Health l
 
 ### Digital Maturity
 - Scoring outputs with traffic‑light benchmarks  
-- Templates and toolkits for immediate application  
+- Templates and toolkits for immediate application
+ 
 <img src="docs/images/scorecard.png" alt="Sample Readiness Scorecard" width="400"/>
+
 **Visual Tools**
 - **Compass Framework**: quadrant model aligning governance, data, workflow, and ethics  
 - **Readiness Scorecard**: quick diagnostic benchmarking tool  
 - **Workflow Diagram**: end‑to‑end pathway illustration  
 
-<img src="docs/images/workflow.png" alt="Workflow Pathway" width="500"/>
+<img src="docs/images/workflow.png" alt="Workflow Pathway" width="600"/>
 
 ---
 
