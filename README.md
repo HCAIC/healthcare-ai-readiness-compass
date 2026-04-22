@@ -1,6 +1,6 @@
 # Healthcare AI Readiness Compass (HCAIC)
 
-![HCAIC Compass](docs/images/compass.png)
+<img src="docs/images/compass.png" alt="HCAIC Compass" width="400"/>
 
 *Open‑source diagnostic framework for governance, workflows, and digital maturity in healthcare AI adoption, integration and implementation.*
 
