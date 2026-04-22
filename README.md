@@ -1,7 +1,5 @@
 # Healthcare AI Readiness Compass (HCAIC)
-
 ## Summary 
-
 Healthcare AI Readiness Compass (HCAIC)
 
 <img src="docs/images/compass.png" alt="HCAIC Compass" width="400"/>
