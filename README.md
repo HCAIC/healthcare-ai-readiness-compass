@@ -24,7 +24,6 @@ It provides a structured lens across four domains: **Governance, Data, Workflow,
 Created by **Leigh** — systems architect and former WHO, NHS, and NSW Health leader — HCAIC translates institutional expertise into practical, regenerative tools for digital maturity.
 
 ---
-
 ## Key Features
 
 ### Governance & Compliance
@@ -45,11 +44,9 @@ Created by **Leigh** — systems architect and former WHO, NHS, and NSW Health l
 - **Compass Framework**: quadrant model aligning governance, data, workflow, and ethics  
 - **Readiness Scorecard**: quick diagnostic benchmarking tool  
 - **Workflow Diagram**: end‑to‑end pathway illustration  
-
 <img src="docs/images/workflow.png" alt="Workflow Pathway" width="600"/>
 
 ---
-
 ## Audience
 - Health system executives and commissioners  
 - Clinical leaders and educators  
