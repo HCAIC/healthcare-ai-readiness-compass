@@ -1,2 +1,2 @@
-mkdir -p docs/images
-
+cd docs
+mkdir images
